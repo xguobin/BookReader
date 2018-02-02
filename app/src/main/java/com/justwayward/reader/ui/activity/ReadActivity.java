@@ -437,7 +437,6 @@ public class ReadActivity extends BaseActivity implements BookReadContract.View 
 
     /**
      * 加载章节列表
-     *
      * @param list
      */
     @Override
